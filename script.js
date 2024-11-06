@@ -10,7 +10,7 @@ function moveNoButton() {
 
 // Show alert with love emojis when "Yes" button is clicked
 function showLoveAlert() {
-    alert("Yay! You like me! ❤️😍💖");
+    alert("Heheh.. You are a Gay🌈🌈🌈");
 }
 
 // Attach event listeners
